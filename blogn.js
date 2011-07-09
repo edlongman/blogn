@@ -9,3 +9,4 @@ http.createServer(function(request, response) {
 }).listen(process.env.C9_PORT);
 
 console.log('Server running at http://blogn.edlong.c9.io');
+cosole.log();
